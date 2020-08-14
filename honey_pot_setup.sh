@@ -8,9 +8,10 @@
 #save and run in root folder
 
 eval "cd /root/"
-eval "wget http://downloads.sourceforge.net/project/pentbox18realised/pentbox-1.8.tar.gz"
 
-eval "tar xvfz pentbox-1.8.tar.gz"
+"wget http://downloads.sourceforge.net/project/pentbox18realised/pentbox-1.8.tar.gz"
+
+"tar xvfz pentbox-1.8.tar.gz"
 
 eval "cd /root/pentbox-1.8 && ./pentbox.rb"
 
