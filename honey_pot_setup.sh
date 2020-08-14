@@ -1,9 +1,9 @@
 #!/bin/bash
 #To run this you have to have root privileges
 
-#This aims to use the tool Petbox to automate honey port setups
+#This aims to use the tool Petbox to automate honey pot setups.
 
-#Log in to your Kali Linux machine as an admin user. Open a terminal window and download pentbox with the command: 
+#Log in to your Linux machine as an admin user. Open a terminal window and download pentbox with the command: 
 #Fetch the tool
 #save and run in root folder
 
