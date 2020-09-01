@@ -11,8 +11,9 @@
 - System architecture.
 - Databases.
 
-* CRM developer
-* Embedded developer
+*CRM developer
+
+*Embedded developer
 
 *C++ for:*
 1. GUI developemnt.
