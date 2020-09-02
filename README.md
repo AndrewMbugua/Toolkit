@@ -1,4 +1,3 @@
-# My Inner-source-toolkit
-# Greetings :fire: 
+# This is my toolkit
 
-## welcome to my personally compiled inner-source-toolkit consisting of codes,scripts and links to other commonly used tools.
+## This is my personally compiled toolkit consisting of codes,scripts and links to other commonly used tools both for Linux and Windows...Contibuters are always welcomed
