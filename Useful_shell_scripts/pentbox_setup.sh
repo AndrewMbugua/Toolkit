@@ -13,5 +13,5 @@ eval "wget http://downloads.sourceforge.net/project/pentbox18realised/pentbox-1.
 
 eval "tar xvfz pentbox-1.8.tar.gz"
 
-eval "cd /home/andrew/Downloads/pentbox-1.8 && ./pentbox.rb"
+eval "cd /home/andrew/Downloads/pentbox-1.8 && sudo ./pentbox.rb"
 
